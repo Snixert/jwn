@@ -6,3 +6,5 @@
 2023-11-23 12:52:56.043 [info] Test server listening.
 2023-11-23 12:52:56.048 [info] Python interpreter path: /bin/python
 2023-11-23 12:53:03.122 [info] Starting Pylance language server.
+2023-11-23 13:13:48.098 [info] Discover tests for workspace name: jwn - uri: /home/jwn/clearhat.py
+2023-11-23 13:13:59.645 [info] Discover tests for workspace name: undefined - uri: /home/jwn/.config/Code/User/settings.json

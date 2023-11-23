@@ -18,3 +18,20 @@
 2023-11-23 12:55:27.359 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
 2023-11-23 13:07:36.080 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
 2023-11-23 13:07:44.670 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-11-23 13:08:21.253 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-11-23 13:08:26.266 [error] Error: Failed to execute git
+	at t.$P.j (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1283743)
+	at async t.$P.exec (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1282849)
+	at async N.exec (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1287229)
+	at async N.o (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1294550)
+	at async N.commit (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1294108)
+	at async /home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1370881
+	at async k.eb (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1384941)
+	at async k.db (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1384633)
+	at async k.commit (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1370580)
+	at async /home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/github/dist/extension.js:2:706527
+2023-11-23 13:08:41.927 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-11-23 13:11:00.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-11-23 13:13:01.228 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+2023-11-23 13:13:57.759 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-23 13:13:57.761 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
