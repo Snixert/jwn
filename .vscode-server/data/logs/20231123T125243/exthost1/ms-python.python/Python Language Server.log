@@ -1,0 +1,19 @@
+2023-11-23 12:53:03.023 [info] [Info  - 12:53:02] (1296) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-23 12:53:03.027 [info] [Info  - 12:53:03] (1296) Server root directory: /home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-23 12:53:03.028 [info] [Info  - 12:53:03] (1296) Starting service instance "jwn"
+2023-11-23 12:53:03.322 [info] [Info  - 12:53:03] (1296) Setting pythonPath for service "jwn": "/bin/python"
+2023-11-23 12:53:03.323 [info] [Info  - 12:53:03] (1296) Setting environmentName for service "jwn": "3.11.2 (global)"
+2023-11-23 12:53:03.435 [info] [Info  - 12:53:03] (1296) Assuming Python version 3.11
+2023-11-23 12:53:03.680 [info] [Info  - 12:53:03] (1296) Found 3 source files
+2023-11-23 12:53:09.774 [info] [Info  - 12:53:09] (1296) [IDX(2)] Long operation: scan packages /home/jwn (2845ms)
+2023-11-23 12:53:16.059 [info] [Info  - 12:53:16] (1296) [BG(1)] Long operation: checking: /home/jwn/hello_sense.py (7496ms)
+2023-11-23 12:53:16.062 [info] [Info  - 12:53:16] (1296) [BG(1)] Long operation: analyzing: /home/jwn/hello_sense.py (9422ms)
+2023-11-23 13:07:26.127 [info] [Info  - 13:07:26] (1296) Setting pythonPath for service "jwn": "/bin/python"
+2023-11-23 13:07:26.136 [info] [Info  - 13:07:26] (1296) Setting environmentName for service "jwn": "3.11.2 (global)"
+2023-11-23 13:07:26.309 [info] [Info  - 13:07:26] (1296) Assuming Python version 3.11
+2023-11-23 13:07:26.845 [info] [Info  - 13:07:26] (1296) Found 3 source files
+2023-11-23 13:07:30.655 [info] [Info  - 13:07:30] (1296) [BG(1)] Long operation: checking: /home/jwn/clearhat.py (2638ms)
+2023-11-23 13:07:30.655 [info] [Info  - 13:07:30] (1296) [BG(1)] Long operation: analyzing: /home/jwn/clearhat.py (3678ms)
+2023-11-23 13:07:34.226 [info] [Info  - 13:07:34] (1296) [IDX(3)] Long operation: scan packages /home/jwn (2446ms)
+2023-11-23 13:07:43.425 [info] [Info  - 13:07:43] (1296) [BG(1)] Long operation: checking: /home/jwn/hello_sense.py (6545ms)
+2023-11-23 13:07:43.516 [info] [Info  - 13:07:43] (1296) [BG(1)] Long operation: analyzing: /home/jwn/hello_sense.py (6599ms)

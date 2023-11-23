@@ -1,0 +1,8 @@
+2023-11-23 12:52:53.416 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-11-23 12:52:53.416 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-11-23 12:52:53.416 [info] Experiment 'pythonREPLSmartSend' is active
+2023-11-23 12:52:53.416 [info] Experiment 'pythonTestAdapter' is active
+2023-11-23 12:52:53.784 [info] Default formatter is set to null for workspace /home/jwn
+2023-11-23 12:52:56.043 [info] Test server listening.
+2023-11-23 12:52:56.048 [info] Python interpreter path: /bin/python
+2023-11-23 12:53:03.122 [info] Starting Pylance language server.

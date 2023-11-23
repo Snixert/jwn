@@ -1,0 +1,48 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:46253 (IPv4)
+Extension host agent listening on 46253
+
+[12:52:43] 
+
+
+
+
+[12:52:43] Extension host agent started.
+[12:52:44] [127.0.0.1][ee31e76e][ManagementConnection] New connection established.
+[12:52:44] [127.0.0.1][29861bbf][ExtensionHostConnection] New connection established.
+[12:52:44] [127.0.0.1][29861bbf][ExtensionHostConnection] <1088> Launched Extension Host Process.
+rejected promise not handled within 1 second: AggregateError
+stack trace: AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+[12:57:07] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5) {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5000
+        at afterConnectMultiple (node:net:1519:16) {
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5000
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5000
+        at afterConnectMultiple (node:net:1519:16) {
+      errno: -111,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5000
+    }
+  ]
+}
+New EH opened, aborting shutdown
+[12:57:43] New EH opened, aborting shutdown

@@ -1,0 +1,23 @@
+2023-11-22 07:48:51.756 [info] 
+
+
+
+
+2023-11-22 07:48:51.756 [error] Error: Unable to retrieve mac address (unexpected format)
+    at I (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:85:3530)
+    at b (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7741)
+    at async /home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7617
+2023-11-22 07:48:51.806 [info] Extension host agent started.
+2023-11-22 07:48:52.059 [error] [127.0.0.1][311a0c92][ManagementConnection] Unknown reconnection token (never seen).
+2023-11-22 07:48:52.181 [error] [127.0.0.1][60125a9f][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-11-22 07:49:02.982 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-11-22 07:49:02.983 [info] Cancelling previous shutdown timeout
+2023-11-22 07:49:03.171 [info] [127.0.0.1][806b476a][ManagementConnection] New connection established.
+2023-11-22 07:49:03.177 [info] [127.0.0.1][3d0042c3][ExtensionHostConnection] New connection established.
+2023-11-22 07:49:03.191 [info] [127.0.0.1][3d0042c3][ExtensionHostConnection] <1266> Launched Extension Host Process.
+2023-11-22 07:54:02.986 [info] New EH opened, aborting shutdown
+2023-11-22 11:07:27.899 [info] [127.0.0.1][ed68e38b][ManagementConnection] New connection established.
+2023-11-22 11:07:27.906 [info] [127.0.0.1][7b5dae23][ExtensionHostConnection] New connection established.
+2023-11-22 11:07:27.931 [info] [127.0.0.1][7b5dae23][ExtensionHostConnection] <5403> Launched Extension Host Process.
+2023-11-22 11:13:40.182 [info] [127.0.0.1][ed68e38b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-22 11:13:40.281 [info] [127.0.0.1][7b5dae23][ExtensionHostConnection] <5403> Extension Host Process exited with code: 0, signal: null.

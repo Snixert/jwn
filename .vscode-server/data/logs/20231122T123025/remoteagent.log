@@ -1,0 +1,24 @@
+2023-11-22 12:30:25.782 [info] 
+
+
+
+
+2023-11-22 12:30:25.782 [error] Error: Unable to retrieve mac address (unexpected format)
+    at I (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:85:3530)
+    at b (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7741)
+    at async /home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7617
+2023-11-22 12:30:25.832 [info] Extension host agent started.
+2023-11-22 12:30:31.781 [error] [127.0.0.1][24be2e5f][ManagementConnection] Unknown reconnection token (never seen).
+2023-11-22 12:32:10.733 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-11-22 12:32:10.734 [info] Cancelling previous shutdown timeout
+2023-11-22 12:32:10.973 [info] [127.0.0.1][7885c596][ManagementConnection] New connection established.
+2023-11-22 12:32:10.983 [info] [127.0.0.1][0e7ea3b9][ExtensionHostConnection] New connection established.
+2023-11-22 12:32:10.996 [info] [127.0.0.1][0e7ea3b9][ExtensionHostConnection] <1194> Launched Extension Host Process.
+2023-11-22 12:37:10.738 [info] New EH opened, aborting shutdown
+2023-11-22 13:04:38.490 [info] Getting Manifest... ms-vscode.makefile-tools
+2023-11-22 13:04:38.699 [info] Installing extension: ms-vscode.makefile-tools
+2023-11-22 13:04:52.051 [info] Extension signature is verified: ms-vscode.makefile-tools
+2023-11-22 13:04:55.672 [info] Extracted extension to file:///home/jwn/.vscode-server/extensions/ms-vscode.makefile-tools-0.7.0: ms-vscode.makefile-tools
+2023-11-22 13:04:55.704 [info] Renamed to /home/jwn/.vscode-server/extensions/ms-vscode.makefile-tools-0.7.0
+2023-11-22 13:04:55.727 [info] Extracting extension completed. ms-vscode.makefile-tools
+2023-11-22 13:04:55.747 [info] Extension installed successfully: ms-vscode.makefile-tools

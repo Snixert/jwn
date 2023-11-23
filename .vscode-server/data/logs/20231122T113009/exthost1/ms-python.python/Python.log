@@ -1,0 +1,16 @@
+2023-11-22 12:00:37.667 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-11-22 12:00:37.667 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-11-22 12:00:37.667 [info] Experiment 'pythonREPLSmartSend' is active
+2023-11-22 12:00:37.667 [info] Experiment 'pythonTestAdapter' is active
+2023-11-22 12:00:37.667 [info] Default formatter is set to null for workspace /home/jwn
+2023-11-22 12:00:37.667 [info] Test server listening.
+2023-11-22 12:00:37.672 [info] Python interpreter path: /bin/python
+2023-11-22 12:00:43.449 [info] Starting Pylance language server.
+2023-11-22 12:03:20.000 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-22 12:03:26.214 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-22 12:03:27.827 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-22 12:03:30.377 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-22 12:03:44.977 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-22 12:04:26.793 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-22 12:08:29.053 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-22 12:27:51.256 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py

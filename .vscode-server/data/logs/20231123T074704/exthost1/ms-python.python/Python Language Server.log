@@ -1,0 +1,25 @@
+2023-11-23 08:26:53.536 [info] [Info  - 08:26:53] (2184) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-23 08:26:53.541 [info] [Info  - 08:26:53] (2184) Server root directory: /home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-23 08:26:53.544 [info] [Info  - 08:26:53] (2184) Starting service instance "jwn"
+2023-11-23 08:26:53.780 [info] [Info  - 08:26:53] (2184) Setting pythonPath for service "jwn": "/bin/python"
+2023-11-23 08:26:53.782 [info] [Info  - 08:26:53] (2184) Setting environmentName for service "jwn": "3.11.2 (global)"
+2023-11-23 08:26:53.900 [info] [Info  - 08:26:53] (2184) Assuming Python version 3.11
+2023-11-23 08:26:54.145 [info] [Info  - 08:26:54] (2184) Found 1 source file
+2023-11-23 08:26:59.458 [info] [Info  - 08:26:59] (2184) [IDX(2)] Long operation: scan packages /home/jwn (2586ms)
+2023-11-23 08:27:04.215 [info] [Info  - 08:27:04] (2184) [BG(1)] Long operation: checking: /home/jwn/hello_sense.py (6781ms)
+2023-11-23 08:27:04.216 [info] [Info  - 08:27:04] (2184) [BG(1)] Long operation: analyzing: /home/jwn/hello_sense.py (8050ms)
+2023-11-23 09:25:52.989 [info] [Info  - 09:25:52] (2184) Found 2 source files
+2023-11-23 09:25:57.246 [info] [Info  - 09:25:57] (2184) [BG(1)] Long operation: checking: /home/jwn/hello_sense.py (3562ms)
+2023-11-23 09:25:57.246 [info] [Info  - 09:25:57] (2184) [BG(1)] Long operation: analyzing: /home/jwn/hello_sense.py (4197ms)
+2023-11-23 09:26:00.015 [info] [Info  - 09:26:00] (2184) [BG(1)] Long operation: checking: /home/jwn/hello_sense.py (2005ms)
+2023-11-23 09:26:00.015 [info] [Info  - 09:26:00] (2184) [BG(1)] Long operation: analyzing: /home/jwn/hello_sense.py (2005ms)
+2023-11-23 10:39:13.195 [info] [Info  - 10:39:13] (2184) [IDX(3)] Long operation: scan packages /home/jwn (2571ms)
+2023-11-23 10:39:15.044 [info] [Info  - 10:39:15] (2184) [BG(1)] Long operation: checking: /home/jwn/hello_sense.py (7170ms)
+2023-11-23 10:39:15.044 [info] [Info  - 10:39:15] (2184) [BG(1)] Long operation: analyzing: /home/jwn/hello_sense.py (8154ms)
+2023-11-23 10:41:46.029 [info] [Info  - 10:41:46] (2184) [IDX(4)] Long operation: scan packages /home/jwn (3018ms)
+2023-11-23 10:41:50.336 [info] [Info  - 10:41:50] (2184) [BG(1)] Long operation: checking: /home/jwn/hello_sense.py (9912ms)
+2023-11-23 10:41:50.337 [info] [Info  - 10:41:50] (2184) [BG(1)] Long operation: analyzing: /home/jwn/hello_sense.py (10922ms)
+2023-11-23 10:41:50.425 [info] [Info  - 10:41:50] (2184) [IDX(4)] Long operation: index execution environment /home/jwn (3860ms)
+2023-11-23 10:41:50.480 [info] [Info  - 10:41:50] (2184) [IDX(4)] Long operation: index packages /home/jwn (3999ms)
+2023-11-23 10:43:23.220 [info] [Info  - 10:43:23] (2184) Found 3 source files
+2023-11-23 10:43:25.548 [info] [Info  - 10:43:25] (2184) [BG(1)] Long operation: analyzing: /home/jwn/hello_sense.py (2324ms)

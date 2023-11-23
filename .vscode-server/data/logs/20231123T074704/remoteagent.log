@@ -1,0 +1,17 @@
+2023-11-23 07:47:04.909 [info] 
+
+
+
+
+2023-11-23 07:47:04.967 [info] Extension host agent started.
+2023-11-23 07:47:05.231 [error] [127.0.0.1][7885c596][ManagementConnection] Unknown reconnection token (never seen).
+2023-11-23 07:47:05.248 [error] [127.0.0.1][0e7ea3b9][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-11-23 07:47:16.244 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-11-23 07:47:16.245 [info] Cancelling previous shutdown timeout
+2023-11-23 07:47:16.456 [info] [127.0.0.1][e40e0cde][ManagementConnection] New connection established.
+2023-11-23 07:47:16.463 [info] [127.0.0.1][418cbe00][ExtensionHostConnection] New connection established.
+2023-11-23 07:47:16.478 [info] [127.0.0.1][418cbe00][ExtensionHostConnection] <1252> Launched Extension Host Process.
+2023-11-23 07:52:16.249 [info] New EH opened, aborting shutdown
+2023-11-23 12:16:37.570 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)

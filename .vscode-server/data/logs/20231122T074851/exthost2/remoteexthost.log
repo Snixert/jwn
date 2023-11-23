@@ -1,0 +1,30 @@
+2023-11-22 11:07:29.696 [info] Extension host with pid 5403 started
+2023-11-22 11:07:30.018 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-11-22 11:07:30.022 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-22 11:07:31.186 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-22 11:07:31.572 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-22 11:07:31.573 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-22 11:07:32.805 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-11-22 11:07:34.875 [info] Eager extensions activated
+2023-11-22 11:07:34.877 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 11:07:34.879 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 11:13:40.170 [info] Extension host terminating: received terminate message from renderer
+2023-11-22 11:13:40.251 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412859)
+	at _.shutdown (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412035)
+	at _.stop (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2411463)
+	at _.stop (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2577851)
+	at Object.stop (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:52694)
+	at Object.stop (/home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167359)
+	at _0x245439.<computed>._stopClient (/home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110667)
+	at _0x245439.<computed>._createNewRequest (/home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110246)
+2023-11-22 11:13:40.251 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412859)
+	at _.shutdown (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412035)
+	at _.stop (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2411463)
+	at _.stop (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2577851)
+	at Object.stop (/home/jwn/.vscode-server/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:52694)
+	at Object.stop (/home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167359)
+	at _0x245439.<computed>._stopClient (/home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110667)
+	at _0x245439.<computed>._createNewRequest (/home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110246)
+2023-11-22 11:13:40.251 [info] Extension host with pid 5403 exiting with code 0

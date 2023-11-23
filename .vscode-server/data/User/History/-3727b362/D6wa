@@ -1,0 +1,9 @@
+.DEFAULT_GOAL := run
+
+setup:
+	sudo systemctl start hello_sense.service
+
+clean:
+	rm -rf __pycache__
+
+.PHONY : run clean

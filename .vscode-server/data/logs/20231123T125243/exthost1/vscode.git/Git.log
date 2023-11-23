@@ -1,0 +1,47 @@
+2023-11-23 12:52:56.428 [info] Log level: Info
+2023-11-23 12:52:56.428 [info] Validating found git in: "git"
+2023-11-23 12:52:56.429 [info] Using git "2.39.2" from "git"
+2023-11-23 12:52:56.429 [info] > git rev-parse --show-toplevel [77ms]
+2023-11-23 12:52:56.430 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:52:56.430 [info] > git rev-parse --show-toplevel [27ms]
+2023-11-23 12:52:56.430 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:52:56.431 [info] > git rev-parse --show-toplevel [2649ms]
+2023-11-23 12:52:56.431 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:52:56.431 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-23 12:52:56.432 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:52:56.432 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-23 12:52:56.432 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:52:56.433 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-23 12:52:56.433 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:52:56.433 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-23 12:52:56.434 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:53:02.334 [info] > git rev-parse --show-toplevel [22ms]
+2023-11-23 12:53:02.335 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:55:24.203 [info] > git rev-parse --show-toplevel [7ms]
+2023-11-23 12:55:24.203 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:55:40.341 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-23 12:55:40.341 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 12:57:13.592 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-23 12:57:13.592 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 13:02:27.757 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-23 13:02:27.757 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 13:02:30.483 [info] > git rev-parse --show-toplevel [6ms]
+2023-11-23 13:02:30.484 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 13:03:30.274 [info] > git rev-parse --show-toplevel [3ms]
+2023-11-23 13:03:30.274 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-23 13:07:25.523 [info] > git init -b main [38ms]
+2023-11-23 13:07:25.544 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-23 13:07:25.571 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2023-11-23 13:07:25.625 [info] Open repository: /home/jwn
+2023-11-23 13:07:25.702 [info] No remotes found in the git config file.
+2023-11-23 13:07:25.709 [info] > git config --get commit.template [35ms]
+2023-11-23 13:07:25.727 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2023-11-23 13:07:26.307 [info] > git show --textconv :clearhat.py [48ms]
+2023-11-23 13:07:26.455 [info] > git ls-files --stage -- /home/jwn/clearhat.py [160ms]
+2023-11-23 13:07:26.571 [info] > git status -z -uall [823ms] (cancelled)
+2023-11-23 13:07:26.623 [info] > git check-ignore -v -z --stdin [60ms]
+2023-11-23 13:07:43.519 [info] > git config --get commit.template [96ms]
+2023-11-23 13:07:43.606 [info] No remotes found in the git config file.
+2023-11-23 13:07:43.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [62ms]
+2023-11-23 13:07:51.991 [info] > git status -z -uall [8264ms] (cancelled)
+2023-11-23 13:07:52.946 [info] > git check-ignore -v -z --stdin [9ms]

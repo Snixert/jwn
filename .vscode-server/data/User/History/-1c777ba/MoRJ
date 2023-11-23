@@ -1,0 +1,20 @@
+setup:
+	sudo systemctl daemon-reload
+	sudo systemctl enable hello_sense.service
+	sudo systemctl stop hello_sense.service
+	sudo systemctl start hello_sense.service
+
+clean:
+	rm -rf __pycache__
+
+build:
+
+install:
+
+start:
+
+start-service:
+
+stop-service:
+
+install-service:

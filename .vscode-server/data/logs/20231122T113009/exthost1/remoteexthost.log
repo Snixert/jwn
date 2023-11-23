@@ -1,0 +1,19 @@
+2023-11-22 11:30:20.651 [info] Extension host with pid 1190 started
+2023-11-22 11:30:20.651 [error] Error: EEXIST: file already exists, open '/home/jwn/.vscode-server/data/User/workspaceStorage/11df726e31d7d8ecb843b591363c3a62/vscode.lock'
+2023-11-22 11:30:20.704 [info] Lock '/home/jwn/.vscode-server/data/User/workspaceStorage/11df726e31d7d8ecb843b591363c3a62/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-11-22 11:30:20.746 [info] Lock '/home/jwn/.vscode-server/data/User/workspaceStorage/11df726e31d7d8ecb843b591363c3a62/vscode.lock': The pid 1266 appears to be gone.
+2023-11-22 11:30:20.747 [info] Lock '/home/jwn/.vscode-server/data/User/workspaceStorage/11df726e31d7d8ecb843b591363c3a62/vscode.lock': Deleting a stale lock.
+2023-11-22 11:30:20.792 [info] Lock '/home/jwn/.vscode-server/data/User/workspaceStorage/11df726e31d7d8ecb843b591363c3a62/vscode.lock': Lock acquired.
+2023-11-22 11:30:20.936 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-22 11:30:20.945 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-11-22 11:30:20.947 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-11-22 11:30:20.950 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2023-11-22 11:30:22.128 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-11-22 11:30:22.130 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-11-22 11:30:23.365 [info] Eager extensions activated
+2023-11-22 11:30:23.366 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 11:30:23.373 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 11:30:25.140 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-11-22 12:00:34.276 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-11-22 12:00:36.134 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-11-22 12:03:53.623 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

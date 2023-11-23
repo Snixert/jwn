@@ -1,0 +1,16 @@
+all: build-manfile install-service start-service
+
+
+build-manfile:
+	sudo apt install pandoc
+	pandoc hello_sense.1.md -s -t man -o manmakefile.1
+	sudo cp ~/hello_sense.py /usr/bin/manmakefile
+	sudo mandb
+
+install-service:
+
+
+start-service:
+	sudo systemctl daemon-reload
+	sudo systemctl enable hello_sense.service
+	sudo systemctl start hello_sense.service

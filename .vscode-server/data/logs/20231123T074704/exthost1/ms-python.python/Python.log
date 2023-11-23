@@ -1,0 +1,48 @@
+2023-11-23 08:26:47.859 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-11-23 08:26:47.861 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-11-23 08:26:47.861 [info] Experiment 'pythonREPLSmartSend' is active
+2023-11-23 08:26:47.861 [info] Experiment 'pythonTestAdapter' is active
+2023-11-23 08:26:47.861 [info] Default formatter is set to null for workspace /home/jwn
+2023-11-23 08:26:47.861 [info] Test server listening.
+2023-11-23 08:26:47.861 [info] Python interpreter path: /bin/python
+2023-11-23 08:26:53.627 [info] Starting Pylance language server.
+2023-11-23 09:25:59.818 [info] Discover tests for workspace name: jwn - uri: /home/jwn/clearhat.py
+2023-11-23 09:28:15.737 [info] Discover tests for workspace name: jwn - uri: /home/jwn/clearhat.py
+2023-11-23 09:30:09.118 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 09:30:10.765 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 09:34:51.319 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 10:15:40.643 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 10:15:56.034 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-23 10:17:54.480 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 10:18:09.758 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-23 10:20:50.176 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 10:22:09.558 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 10:23:03.652 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-23 10:23:32.104 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 10:44:35.396 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:45:17.977 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:45:23.458 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:47:26.458 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:47:36.882 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:48:54.332 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:49:06.589 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:49:46.954 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:50:10.271 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:52:31.828 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:52:45.776 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:52:53.678 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:57:07.504 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:57:45.643 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 10:57:58.771 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 12:07:33.243 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 12:08:03.591 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 12:08:31.775 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-23 12:09:25.126 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-23 12:10:08.808 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 12:10:54.520 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 12:11:07.790 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 12:11:42.405 [info] Send text to terminal: /bin/python /home/jwn/restapi.py
+2023-11-23 12:17:11.111 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 12:17:26.430 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 12:17:38.349 [info] Discover tests for workspace name: jwn - uri: /home/jwn/restapi.py
+2023-11-23 12:44:01.477 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py

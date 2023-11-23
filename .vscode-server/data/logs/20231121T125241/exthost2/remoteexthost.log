@@ -1,0 +1,22 @@
+2023-11-21 12:53:38.275 [info] Extension host with pid 18578 started
+2023-11-21 12:53:38.333 [info] Lock '/home/jwn/.vscode-server/data/User/workspaceStorage/11df726e31d7d8ecb843b591363c3a62/vscode.lock': Lock acquired.
+2023-11-21 12:53:38.448 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*'
+2023-11-21 12:53:38.526 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2023-11-21 12:53:38.805 [info] Eager extensions activated
+2023-11-21 12:53:38.807 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-21 12:53:38.809 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-21 12:53:42.614 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-11-21 12:53:47.876 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-21 12:57:42.568 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-11-21 12:57:44.320 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-11-21 13:00:54.456 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-11-21 13:05:24.925 [error] [ms-python.python] provider FAILED
+2023-11-21 13:05:24.925 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133005
+	at _0x9ba18e (/home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144766)
+	at async ie.provideCompletionItems (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)
+2023-11-21 14:09:36.926 [error] [ms-python.python] provider FAILED
+2023-11-21 14:09:36.926 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133005
+	at _0x9ba18e (/home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144766)
+	at async ie.provideCompletionItems (/home/jwn/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)

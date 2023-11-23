@@ -1,0 +1,87 @@
+2023-11-21 12:57:44.019 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-11-21 12:57:44.020 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-11-21 12:57:44.020 [info] Experiment 'pythonREPLSmartSend' is active
+2023-11-21 12:57:44.020 [info] Experiment 'pythonTestAdapter' is active
+2023-11-21 12:57:44.252 [info] Default formatter is set to null for workspace /home/jwn
+2023-11-21 12:57:45.646 [info] Test server listening.
+2023-11-21 12:57:45.676 [info] > conda info --json
+2023-11-21 12:57:45.715 [info] Found: /bin/python --> /bin/python3.11
+2023-11-21 12:57:45.720 [info] Found: /bin/python3 --> /bin/python3.11
+2023-11-21 12:57:45.724 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-11-21 12:57:45.740 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-11-21 12:57:45.741 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-11-21 12:57:45.741 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-11-21 12:57:45.834 [info] > /bin/python -I ./.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-21 12:57:45.878 [info] > /usr/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-21 12:57:45.962 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-21 12:57:45.962 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-21 12:57:45.962 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-21 12:57:45.962 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-21 12:57:45.962 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-21 12:57:45.962 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-21 12:57:45.962 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-21 12:57:46.182 [info] Python interpreter path: /bin/python
+2023-11-21 12:57:46.571 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-21 12:57:46.571 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-21 12:57:51.451 [info] Starting Pylance language server.
+2023-11-21 12:57:56.970 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:00:28.777 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:00:30.107 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:01:05.186 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:01:06.728 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:02:33.025 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:02:35.853 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:03:58.812 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:04:02.330 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:04:03.099 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:04:14.082 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:04:15.205 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:04:21.902 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:04:39.234 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:04:40.836 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:05:26.667 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:05:29.345 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:05:36.549 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:05:38.454 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:05:42.902 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:05:44.529 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:06:06.043 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:06:06.273 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:07:48.267 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:07:50.429 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:09:53.688 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:09:54.094 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:10:10.314 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:10:26.485 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:27:54.907 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:28:33.624 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:31:06.818 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:31:07.050 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:31:16.162 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:32:22.343 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:32:39.270 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:32:45.325 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:32:50.158 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:32:59.303 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:33:00.472 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 13:49:35.388 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:58:39.536 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:59:22.798 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 13:59:23.875 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 14:03:43.724 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:04:02.009 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 14:05:07.482 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:06:30.429 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:06:32.571 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 14:07:46.137 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:08:01.532 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 14:08:23.603 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:08:30.983 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:09:39.964 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:09:49.180 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:10:03.916 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 14:11:31.138 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:11:38.005 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 14:12:55.483 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py
+2023-11-21 14:12:58.947 [info] Send text to terminal: /bin/python /home/jwn/hello_sense.py
+2023-11-21 14:15:06.515 [info] Discover tests for workspace name: jwn - uri: /home/jwn/hello_sense.py

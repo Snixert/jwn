@@ -1,0 +1,8 @@
+2023-11-22 07:49:17.274 [info] [Info  - 07:49:17] (1373) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-22 07:49:17.275 [info] [Info  - 07:49:17] (1373) Server root directory: /home/jwn/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-22 07:49:17.276 [info] [Info  - 07:49:17] (1373) Starting service instance "jwn"
+2023-11-22 07:49:17.519 [info] [Info  - 07:49:17] (1373) Setting pythonPath for service "jwn": "/bin/python"
+2023-11-22 07:49:17.528 [info] [Info  - 07:49:17] (1373) Setting environmentName for service "jwn": "3.11.2 (global)"
+2023-11-22 07:49:17.753 [info] [Info  - 07:49:17] (1373) Assuming Python version 3.11
+2023-11-22 07:49:17.976 [info] [Info  - 07:49:17] (1373) Found 1 source file
+2023-11-22 07:49:24.939 [info] [Info  - 07:49:24] (1373) [BG(1)] Long operation: getSemanticTokens full at /home/jwn/hello_sense.py (4921ms)
